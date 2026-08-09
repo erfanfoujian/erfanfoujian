@@ -8,7 +8,7 @@
 <br/>
 
 ```bash
-$ whoami --verbose
+$ whoami --info
 
 > Name        : Erfan
 > Role        : Front-end Developer
