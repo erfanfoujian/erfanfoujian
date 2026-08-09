@@ -35,8 +35,10 @@ $ _
 
 ### 📈 Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=erfanfoujian&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=erfanfoujian&theme=tokyonight&hide_border=true&background=0d1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" height="165"/>
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=erfanfoujian&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
+
+
 
 </div>
 
@@ -44,9 +46,7 @@ $ _
 
 <div align="center">
 
-### 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/erfanfoujian/erfanfoujian/output/github-snake-dark.svg" />
 
 </div>
 
