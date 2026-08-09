@@ -13,7 +13,7 @@ $ whoami --verbose
 > Name        : Erfan
 > Role        : Front-end Developer
 > Stack       : React . Next.js . Tailwind CSS
-> Learning    : React . Next.js . Tailwind CSS
+> Learning    : JavaScript Fundamentals (leveling up)
 > Interests   : Programming . Sports . Driving
 
 $ _
